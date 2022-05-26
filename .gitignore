@@ -132,3 +132,5 @@ dmypy.json
 old-*
 wip-*
 test-*
+
+/requirements.txt
